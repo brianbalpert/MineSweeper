@@ -1,10 +1,5 @@
 import java.util.Random;
 
-// Name:
-// USC NetID:
-// CS 455 PA3
-// Fall 2020
-
 /**
  * MineField class with locations of mines for a game. This class is mutable,
  * because we sometimes need to change it once it's created. mutators:

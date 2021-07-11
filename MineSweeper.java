@@ -1,13 +1,15 @@
 /**
    MineSweeper -- main class for a GUI minesweeper game.
    Games use a 9 x 9 board with 10 randomly placed mines.  For more details about this
-   game and how to play it, see the assignment description.
+   game and how to play it, see the README.
    
+   To compile it from the command line:
+      javac MineSweeper.java
+
    To run it from the command line: 
       java MineSweeper
       
    DO NOT CHANGE THIS FILE
-
  */
 
 import javax.swing.JFrame;
